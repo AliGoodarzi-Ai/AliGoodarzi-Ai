@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a strong background in VHDL and system design and over two years of experience in machine learning. <br>My current focus is on implementing deep learning models (CNNs and DNNs) on GPUs, particularly in the field of Machine Learning as a Service (MLaaS). <br>I'm passionate about research, especially in large language models (LLMs) and academic applications of machine learning.<br>I enjoy hitting the gym, hiking, and listening to podcasts in my free time.
+I have a strong background in VHDL and system design and over two years of experience in machine learning. <br>My current focus is on implementing deep learning models (CNNs and DNNs) on GPUs, particularly in the field of Machine Learning as a Service (MLaaS). <br>I'm passionate about research, and I plan to publish 2 papers by January 2024, especially in large language models (LLMs) and advanced applications of machine learning.<br>I enjoy hitting the gym, hiking, and listening to podcasts in my free time.
 
 
 ## 🌐 Socials:
