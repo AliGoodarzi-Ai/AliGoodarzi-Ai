@@ -2,7 +2,7 @@
 I have a strong background in VHDL and system design and over two years of experience in machine learning. <br>My current focus is on implementing deep learning models (CNNs and DNNs) on GPUs, particularly in the field of Machine Learning as a Service (MLaaS). <br>I'm passionate about research, especially in large language models (LLMs) and advanced machine learning applications and I plan to publish a paper about CNN, by January 2025 https://www.researchgate.net/profile/Ali-Goodarzi-7.<br>I enjoy hitting the gym, hiking, and listening to podcasts in my free time.
 
 
-## 🌐 Socials:
+## 🌐 Socials: https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf
 
 
 # 💻 Tech Stack:
