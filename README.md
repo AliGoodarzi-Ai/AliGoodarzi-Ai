@@ -29,18 +29,18 @@ I have a strong background in VHDL and system design and over two years of exper
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?style=for-the-badge&logoColor=white) 
 ![LLMs](https://img.shields.io/badge/LLMs-%23FF9900.svg?style=for-the-badge&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%2300B0FF.svg?style=for-the-badge&logoColor=white) 
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300BFAE.svg?style=for-the-badge&logoColor=white) 
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-%23379800.svg?style=for-the-badge&logoColor=white) 
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-%23A5915F.svg?style=for-the-badge&logoColor=white) 
-
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aligoodarzi-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aligoodarzi-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
