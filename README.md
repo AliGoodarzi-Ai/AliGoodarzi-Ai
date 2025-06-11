@@ -1,8 +1,16 @@
 # 💫 About Me:
-I have a strong background in VHDL and system design and over two years of experience in machine learning. <br>My current focus is on implementing deep learning models (CNNs and DNNs) on GPUs, particularly in the field of Machine Learning as a Service (MLaaS). <br>I'm passionate about research, especially in large language models (LLMs) and advanced machine learning applications. I enjoy hitting the gym, hiking, and listening to podcasts in my free time.
 
+I have a strong background in VHDL and system design, combined with over two years of hands-on experience in machine learning. My current focus lies in implementing deep learning models (CNNs and DNNs) on GPUs, especially within the context of **Machine Learning as a Service (MLaaS)** and **LLM-powered applications**.
 
-## 🌐 Socials: https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf
+I am particularly interested in integrating **theoretical frameworks**—such as structured argumentation, critical thinking models, and cognitive scaffolding—with **Large Language Models (LLMs)** to create **real-world, problem-solving tools**. These systems often serve in **B2B (Business-to-Business)** or **Decision Support Systems (DSS)** contexts, enabling intelligent applications across education, research, and enterprise domains.
+
+As a researcher and critical thinker, I aim to bridge the gap between cutting-edge AI research and applied machine learning, translating theory into robust, scalable tools that assist users in making informed, structured decisions.
+
+Outside of work, I enjoy hitting the gym, hiking, and listening to thought-provoking podcasts.
+
+## 🌐 Socials:  
+🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)
+
 
 
 # 💻 Tech Stack:
