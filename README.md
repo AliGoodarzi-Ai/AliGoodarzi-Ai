@@ -10,6 +10,10 @@ Outside of work, I enjoy hitting the gym, hiking, and listening to thought-provo
 
 ## 🌐 Socials:  
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)
+[![Website](https://img.shields.io/badge/Website-aligoodarzi--ai.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aligoodarzi-ai.github.io)
+
+
+
 
 
 
