@@ -9,8 +9,8 @@ As a researcher and critical thinker, I aim to bridge the gap between cutting-ed
 Outside of work, I enjoy hitting the gym, hiking, and listening to thought-provoking podcasts.
 
 ## 🌐 Socials:  
-🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)
-(https://img.shields.io/badge/Website-aligoodarzi--ai.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aligoodarzi-ai.github.io)
+🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)  
+🔗 [Personal Website](https://aligoodarzi-ai.github.io)
 
 
 
