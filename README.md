@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I have a strong background in VHDL and system design, combined with over two years of hands-on experience in machine learning. My current focus lies in implementing deep learning models (CNNs and DNNs) on GPUs, especially within the context of **Machine Learning as a Service (MLaaS)** and **LLM-powered applications**.
+I have a strong background in VHDL and system design, combined with over three years of hands-on experience in machine learning. My current focus lies in implementing deep learning models (CNNs and DNNs) on GPUs, especially within the context of **Machine Learning as a Service (MLaaS)** and **LLM-powered applications**.
 
 I am particularly interested in integrating **theoretical frameworks**—such as structured argumentation, critical thinking models, and cognitive scaffolding—with **Large Language Models (LLMs)** to create **real-world, problem-solving tools**. These systems often serve in **B2B (Business-to-Business)** or **Decision Support Systems (DSS)** contexts, enabling intelligent applications across education, research, and enterprise domains.
 
