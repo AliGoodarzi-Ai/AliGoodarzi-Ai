@@ -1,23 +1,21 @@
-#💫 About Me
-I hold a Master’s degree in Computer Science and Engineering from the University of Oulu, awarded with Outstanding distinction. My background is in applied artificial intelligence, with experience designing and building intelligent systems for real-world impact.
+# 💫 About Me
 
-Core skill families:
+I hold a Master’s degree in Computer Science and Engineering from the University of Oulu, awarded with **"Outstanding" distinction**. My background is in applied artificial intelligence, with experience designing and building intelligent systems for real-world impact.
 
-AI & Machine Learning Engineering: Large Language Models (LLMs), generative AI, deep learning, semantic search, and computer vision.
-Data & Pipeline Engineering: Data flow design, multi-stage retrieval pipelines, vector embeddings, and scalable API integration.
-System Architecture: Modular AI system design, prompt engineering, and integrating theoretical frameworks (argumentation, critical thinking, cognitive scaffolding) into practical applications.
-Human-Centric & Industrial AI: Context-aware guidance, safety monitoring, and decision support systems for collaborative and industrial environments.
-Project highlights:
+**Core skill:**
+- **AI & Machine Learning Engineering:** Large Language Models (LLMs), generative AI, deep learning, semantic search, and computer vision.
+- **Data & Pipeline Engineering:** Data flow design, multi-stage retrieval pipelines, vector embeddings, and scalable API integration.
+- **System Architecture:** Modular AI system design, prompt engineering, and integrating theoretical frameworks (argumentation, critical thinking, cognitive scaffolding) into practical applications.
+- **Human-Centric & Industrial AI:** Context-aware guidance, safety monitoring, and decision support systems for collaborative and industrial environments.
+
+**Project highlights:**  
 I have developed a semantic search and feedback platform for argument analysis, and built computer vision systems that combine object detection with contextual reasoning for industrial safety and guidance. These experiences have given me a broad and adaptable AI toolbox, ready for both research and industry challenges.
 
 Outside of work, I enjoy hiking, working out, and exploring new ideas through podcasts and reading.
 
-## 🌐 Socials:  
+## 🌐 Socials  
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)  
 🔗 [Personal Website](https://aligoodarzi-ai.github.io)
-
-
-
 
 
 
