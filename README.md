@@ -1,12 +1,16 @@
-# 💫 About Me:
+#💫 About Me
+I hold a Master’s degree in Computer Science and Engineering from the University of Oulu, awarded with Outstanding distinction. My background is in applied artificial intelligence, with experience designing and building intelligent systems for real-world impact.
 
-I have a strong background in VHDL and system design, combined with over three years of hands-on experience in machine learning. My current focus lies in implementing deep learning models (CNNs and DNNs) on GPUs, especially within the context of **Machine Learning as a Service (MLaaS)** and **LLM-powered applications**.
+Core skill families:
 
-I am particularly interested in integrating **theoretical frameworks**—such as structured argumentation, critical thinking models, and cognitive scaffolding—with **Large Language Models (LLMs)** to create **real-world, problem-solving tools**. These systems often serve in **B2B (Business-to-Business)** or **Decision Support Systems (DSS)** contexts, enabling intelligent applications across education, research, and enterprise domains.
+AI & Machine Learning Engineering: Large Language Models (LLMs), generative AI, deep learning, semantic search, and computer vision.
+Data & Pipeline Engineering: Data flow design, multi-stage retrieval pipelines, vector embeddings, and scalable API integration.
+System Architecture: Modular AI system design, prompt engineering, and integrating theoretical frameworks (argumentation, critical thinking, cognitive scaffolding) into practical applications.
+Human-Centric & Industrial AI: Context-aware guidance, safety monitoring, and decision support systems for collaborative and industrial environments.
+Project highlights:
+I have developed a semantic search and feedback platform for argument analysis, and built computer vision systems that combine object detection with contextual reasoning for industrial safety and guidance. These experiences have given me a broad and adaptable AI toolbox, ready for both research and industry challenges.
 
-As a researcher and critical thinker, I aim to bridge the gap between cutting-edge AI research and applied machine learning, translating theory into robust, scalable tools that assist users in making informed, structured decisions.
-
-Outside of work, I enjoy hitting the gym, hiking, and listening to thought-provoking podcasts.
+Outside of work, I enjoy hiking, working out, and exploring new ideas through podcasts and reading.
 
 ## 🌐 Socials:  
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)  
