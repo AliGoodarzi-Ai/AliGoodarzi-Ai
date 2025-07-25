@@ -16,6 +16,7 @@ Outside of work, I enjoy hiking, working out, and exploring new ideas through po
 ## 🌐 Socials  
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)  
 🔗 [Personal Website](https://aligoodarzi-ai.github.io)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=G9GnajEAAAAJ&hl=en)
 
 
 
