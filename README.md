@@ -1,63 +1,93 @@
 # 💫 About Me
 
-I hold a Master’s degree in Computer Science and Engineering from the University of Oulu, awarded with **"Outstanding" distinction**. My background is in applied artificial intelligence, with experience designing and building intelligent systems for real-world impact.
+I hold a Master's degree in Computer Science and Engineering from the University of Oulu, awarded with **"Outstanding" distinction**. My expertise spans AI engineering, machine learning systems, and interdisciplinary applications across healthcare, industrial automation, and intelligent systems development.
 
-**Core skill:**
-- **AI & Machine Learning Engineering:** Large Language Models (LLMs), generative AI, deep learning, semantic search, and computer vision.
-- **Data & Pipeline Engineering:** Data flow design, multi-stage retrieval pipelines, vector embeddings, and scalable API integration.
-- **System Architecture:** Modular AI system design, prompt engineering, and integrating theoretical frameworks (argumentation, critical thinking, cognitive scaffolding) into practical applications.
-- **Human-Centric & Industrial AI:** Context-aware guidance, safety monitoring, and decision support systems for collaborative and industrial environments.
+**Core Expertise:**
+- **AI & Machine Learning Engineering:** Large Language Models (LLMs), generative AI, deep learning, semantic search, computer vision, and neural network architectures (CNNs, Transformers, GANs).
+- **Production AI Systems:** MLOps pipelines, model deployment, A/B testing frameworks, model monitoring, and scalable inference systems.
+- **Data & Pipeline Engineering:** ETL/ELT processes, real-time data streaming, vector databases, multi-stage retrieval pipelines, and distributed computing.
+- **System Architecture & Integration:** Microservices design, API development, cloud infrastructure (Azure, AWS), containerization (Docker, Kubernetes), and CI/CD workflows.
+- **Specialized Applications:** Healthcare AI, mental wellness systems, industrial IoT, embedded systems, and human-computer interaction design.
 
-**Project highlights:**  
-I have developed a semantic search and feedback platform for argument analysis, and built computer vision systems that combine object detection with contextual reasoning for industrial safety and guidance. These experiences have given me a broad and adaptable AI toolbox, ready for both research and industry challenges.
+**Technical Leadership:**
+I have experience leading end-to-end AI projects from research to production, including semantic search platforms, computer vision safety systems, and therapeutic AI applications. My work bridges theoretical frameworks with practical implementations, particularly in healthcare AI and industrial automation.
 
-Outside of work, I enjoy hiking, working out, and exploring new ideas through podcasts and reading.
+**Industry Experience:**
+My background includes electronic engineering, PCB design, industrial automation, and IoT systems, providing a unique perspective on integrating AI with hardware and embedded systems.
 
-## 🌐 Socials  
-🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)  
-🔗 [Personal Website](https://aligoodarzi-ai.github.io)
-🔗 [Google Scholar](https://scholar.google.com/citations?user=G9GnajEAAAAJ&hl=en)
+Outside of work, I enjoy hiking, fitness, podcasts, and exploring emerging technologies.
 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aligoodarzi)
+[![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://aligoodarzi-ai.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Goodarzi-7?ev=hdr_xprf)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G9GnajEAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliGoodarzi-Ai)
 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
+## Programming & Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?style=for-the-badge&logoColor=white) 
-![LLMs](https://img.shields.io/badge/LLMs-%23FF9900.svg?style=for-the-badge&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-%2300B0FF.svg?style=for-the-badge&logoColor=white) 
-![Pinecone](https://img.shields.io/badge/Pinecone-%2300BFAE.svg?style=for-the-badge&logoColor=white) 
-![PCB Design](https://img.shields.io/badge/PCB%20Design-%23379800.svg?style=for-the-badge&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+## LLMs & Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300B0FF.svg?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-%2300BFAE.svg?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+
+## Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## Databases & Data Processing
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+## Hardware & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-%23A5915F.svg?style=for-the-badge&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![PCB Design](https://img.shields.io/badge/PCB%20Design-%23379800.svg?style=for-the-badge&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23FF0000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+
+## Development Tools & Frameworks
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+
+## Design & Visualization
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aligoodarzi-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aligoodarzi-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
