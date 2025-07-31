@@ -90,4 +90,9 @@ Outside of work, I enjoy hiking, fitness, podcasts, and exploring emerging techn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aligoodarzi-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aligoodarzi-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📈 GitHub Activity
+![](https://github-readme-stats.vercel.app/api?username=aligoodarzi-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aligoodarzi-ai&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aligoodarzi-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
