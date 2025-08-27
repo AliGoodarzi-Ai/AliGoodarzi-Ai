@@ -42,7 +42,6 @@ Outside of work, I enjoy hiking, fitness, podcasts, and exploring emerging techn
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ## LLMs & Generative AI
-## LLMs & Generative AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
