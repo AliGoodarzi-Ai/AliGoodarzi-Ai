@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I hold a Master's degree in Computer Science and Engineering from the University of Oulu, awarded with **"Outstanding" distinction**. My expertise spans AI engineering, machine learning systems, and interdisciplinary applications across healthcare, industrial automation, and intelligent systems development.
+I hold a Master's degree in Computer Science and Engineering from the University of Oulu. My expertise spans AI engineering, machine learning systems, and interdisciplinary applications across healthcare, industrial automation, and intelligent systems development.
 
 **Core Expertise:**
 - **AI & Machine Learning Engineering:** Large Language Models (LLMs), generative AI, deep learning, semantic search, computer vision, and neural network architectures (CNNs, Transformers, GANs).
