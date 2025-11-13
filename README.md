@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 I hold a Master's degree in Computer Science and Engineering from the University of Oulu. My expertise spans AI engineering, machine learning systems, and interdisciplinary applications across healthcare, industrial automation, and intelligent systems development.
 
